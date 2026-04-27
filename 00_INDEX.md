@@ -40,9 +40,9 @@
 | B9 | RVB | `B_mechanisms/B9_RVB.md` | ✅ v1.0 (2026-04-27) |
 | B10 | Hund's 耦合驱动 | `B_mechanisms/B10_Hund_coupling.md` | ✅ v1.0 (2026-04-27) |
 | B11 | 拓扑配对 | `B_mechanisms/B11_topological_pairing.md` | ✅ v1.0 (2026-04-27) |
-| B12 | 多通道叠加 | — | Paper A 已研究 |
-| B13 | 平坦带配对 | — | Paper E 已研究 |
-| B14 | Mottness 驱动 | — | 空白 |
+| B12 | 多通道叠加 | `B_mechanisms/B12_multi_channel.md` | ✅ v1.0 (2026-04-28) |
+| B13 | 平坦带配对 | `B_mechanisms/B13_flat_band.md` | ✅ v1.0 (2026-04-28) |
+| B14 | Mottness 驱动 | `B_mechanisms/B14_Mottness.md` | ✅ v1.0 (2026-04-28) |
 
 ### C. 配对对称性
 
@@ -50,7 +50,7 @@
 |------|------|------|------|
 | C1 | s-wave | `C_pairing_symmetry/C1_s_wave.md` | ✅ v1.0 (2026-04-28) |
 | C2 | s± wave | `C_pairing_symmetry/C2_s_plus_minus.md` | ✅ v1.0 (2026-04-28) |
-| C3 | d_x²-y² wave | — | Paper E 已研究 |
+| C3 | d_x²-y² wave | `C_pairing_symmetry/C3_d_wave.md` | ✅ v1.0 (2026-04-28) |
 | C4 | d_xy wave | — | 空白 |
 | C5 | p-wave | — | 空白 |
 | C6 | f-wave | — | 空白 |

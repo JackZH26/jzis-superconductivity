@@ -49,7 +49,7 @@
 | 编号 | 课题 | 文件 | 状态 |
 |------|------|------|------|
 | C1 | s-wave | `C_pairing_symmetry/C1_s_wave.md` | ✅ v1.0 (2026-04-28) |
-| C2 | s± wave | — | Paper E 已研究 |
+| C2 | s± wave | `C_pairing_symmetry/C2_s_plus_minus.md` | ✅ v1.0 (2026-04-28) |
 | C3 | d_x²-y² wave | — | Paper E 已研究 |
 | C4 | d_xy wave | — | 空白 |
 | C5 | p-wave | — | 空白 |

@@ -72,7 +72,7 @@
 | D7 | MgB₂ | `D_material_families/D7_MgB2.md` | ✅ v1.0 (2026-04-28) |
 | **D8** | **重费米子** | `D_material_families/D8_heavy_fermion.md` | **✅ v1.0 (2026-04-28)** |
 | D9 | 富勒烯 | `D_material_families/D9_fullerenes.md` | ✅ v1.0 (2026-04-28) |
-| **D10** | **有机超导** | **— 优先开始** | **🟠 空白** |
+| **D10** | **有机超导** | **`D_material_families/D10_organic.md`** | **✅ v1.0 (2026-04-28)** |
 | D11 | 2D/界面 | — | 部分 |
 | **D12** | **拓扑超导候选** | **— 优先开始** | **🟠 空白** |
 | D13 | 二维半导体 SC | — | 空白 |

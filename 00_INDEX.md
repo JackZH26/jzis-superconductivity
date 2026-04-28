@@ -105,7 +105,7 @@
 | F5 | Majorana 零模 | `F_quantum_geometry/F5_Majorana_zero_modes.md` ✅ v1.0 (2026-04-28) | Majorana 算符 + Kitaev chain + 非阿贝尔统计 + ZBCP/非局域/4π Josephson/braiding 四种探测 + quasi-Majorana vs MZM + TQC 方案 + 6 条反谄媚 + 反幻觉审计；🎉 **F5 完成！** |
 | F6 | 平坦带超导 | `F_quantum_geometry/F6_flat_band_SC.md` ✅ v1.0 (2026-04-28) | 经典 BCS 困境 + Peotta-Törmä 定理 [Nat Commun 6, 8944] + BdG 分解 + 量子几何 vs 强关联两大竞争框架 + Landau 级 + 微波/µSR/BKT 测量 + 5 条反谄媚；🎉 **F6 完成！** |
 | F7 | 几何超流权重 | `F_quantum_geometry/F7_geometric_superfluid_weight.md` ✅ v1.0 (2026-04-28) | Kubo 公式 + BdG 精确分解（BCS+几何）+ inter-band 几何起源 + Peotta-Törmä 下界完整推导 + 孤立平坦带等号条件 + 各向异性张量 + BKT 关联 + 6 条反谄媚；🎉 **F7 完成！** |
-| F8 | 轨道纹理 | — | Paper E |
+| F8 | BKT 转变 | `F_quantum_geometry/F8_BKT_transition.md` ✅ v1.0 (2026-04-28) | Mermin-Wagner背景 + 温涡拓扑热力学 + KT自由能论证 + Nelson-Kosterlitz普适跳变 + I-V幂律(α=3判决) + R(T)BKT函数形式 + 实验识别指南 + BCS vs BKT对比 + 量子几何联系；🎉 **F8 BKT转变完成！** |
 | F9 | 拓扑电荷 | — | 空白 |
 | F10 | Wilson loop | — | 空白 |
 

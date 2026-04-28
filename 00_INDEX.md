@@ -89,7 +89,7 @@
 | **E4** | **应变** | **`E_tuning_parameters/E4_strain.md`** | **✅ v1.0 (2026-04-28)** |
 | **E5** | **磁场（轨道效应、Pauli极限、FFLO）** | **`E_tuning_parameters/E5_magnetic_field.md`** | **✅ v1.0 (2026-04-28)** |
 | **E6** | **光照（光致SC/非平衡泵浦/Floquet）** | **`E_tuning_parameters/E6_light_irradiation.md`** | **✅ v1.0 (2026-04-28)** |
-| E7 | 无序/杂质 | — | 空白 |
+| **E7** | **无序/杂质（Anderson定理/AG理论/钉扎/YSR）** | **`E_tuning_parameters/E7_disorder_impurities.md`** | **✅ v1.0 (2026-04-28)** |
 | E8 | 维度 | — | 已部分 |
 | E9 | 扭转角 | — | 已部分 |
 | E10 | 压强淬火 PQP | — | Deng 2026 已精读，待综述 |

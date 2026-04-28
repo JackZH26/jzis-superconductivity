@@ -10,7 +10,7 @@
 ```
 A. 现象学:          ▓▓▓▓▓▓▓▓▓▓  100%（A1-A10 全部完成【🎉 A 部分完整】）
 B. 微观机制:        ▓▓▓▓▓▓▓▓▓▓  100%（B1-B14 全部完成 🎉）
-C. 配对对称性:      ▓▓▓▓▓▓▓▓░░  80%（C1 v1.0, C2 v1.0, C3 v1.0, C4 v1.0, C5 v1.0, C6 v1.0, C7 v1.0）
+C. 配对对称性:      ▓▓▓▓▓▓▓▓▓░  90%（C1 v1.0, C2 v1.0, C3 v1.0, C4 v1.0, C5 v1.0, C6 v1.0, C7 v1.0, C8 v1.0）
 D. 材料家族:        ▓▓▓▓░░░░░░  40%（D3-D5, D6-D7, D9, D11, D15）
 E. 控制参数:        ▓▓▓░░░░░░░  30%（E1-E2, E5-E6, E8-E10）
 F. 量子几何:        ▓▓░░░░░░░░  20%（F1-F3, F7-F8）
@@ -76,6 +76,7 @@ H. 反常正常态:      ▓▓▓░░░░░░░  30%（H1-H5, H7-H9）
 - ✅ 完成 C5 p-wave 配对对称性综述（v1.0, 19.5KB）—— triplet d-vector + chiral p+ip 拓扑 + Sr₂RuO₄ 24 年翻案完整史 + µSR 未解问题 + ³He 唯一确认 p-wave + UTe₂ 新候选 + 反谄媚审计
 - ✅ 完成 C6 f-wave 配对对称性综述（v1.0, 17.2KB）—— ℓ=3 奇宇称 triplet + E₂u vs E₁u（UPt₃ 35 年争议）+ UTe₂ 最强候选 + 实验基础最薄弱诚实声明 + Paper E 5f 轨道对应 + 反谄媚审计
 - ✅ 完成 C7 Chiral 配对综述（v1.0, 19.6KB）—— chiral p+ip / d+id + TRS 自发破缺 + Sr₂RuO₄ 24 年翻案教训 + PKE/µSR 判据 + Kagome/MATBG/UTe₂ 候选 + Chern 数拓扑分类 + Paper E 轨道混合联系 + 反谄媚审计
+- ✅ 完成 C8 PDW 综述（v1.0, 18.1KB）—— 有限 q 配对 + Hamidian 2016 Josephson STM + PDW-CDW 铁律 + 赝能隙/Fermi arc 关联 + FFLO vs PDW 区分 + 反谄媚审计
 
 ---
 
@@ -118,7 +119,8 @@ H. 反常正常态:      ▓▓▓░░░░░░░  30%（H1-H5, H7-H9）
 - [✅] **C5 p-wave — v1.0 完成 (2026-04-28) 【Sr₂RuO₄ 24 年教训 + ³He 唯一确认 + chiral p+ip 拓扑】**
 - [✅] **C6 f-wave — v1.0 完成 (2026-04-28) 【UPt₃ E₂u 35 年争议 + UTe₂ 最强候选 + f-wave 实验基础最薄弱】**
 - [✅] **C7 Chiral 配对 — v1.0 完成 (2026-04-28) 【p+ip / d+id + TRS 破缺 + Sr₂RuO₄ 翻案 + Kagome/MATBG/UTe₂ 候选 + 拓扑 Chern 分类】**
-- [ ] C8, C10 — 空白
+- [✅] **C8 PDW — v1.0 完成 (2026-04-28) 【有限 q 配对 + Josephson STM + PDW-CDW 铁律 + 赝能隙候选 + FFLO 区分】**
+- [ ] C10 — 空白
 - [ ] C9 Singlet vs Triplet — **关键空白**
 
 #### D 材料家族

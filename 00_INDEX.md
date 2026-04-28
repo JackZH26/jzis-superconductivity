@@ -87,7 +87,7 @@
 | E2 | 化学掺杂 | `E_tuning_parameters/E2_chemical_doping.md` | ✅ v1.0 (2026-04-28) |
 | E3 | 静电门控 | `E_tuning_parameters/E3_electrostatic_gating.md` | ✅ v1.0 (2026-04-28) |
 | **E4** | **应变** | **`E_tuning_parameters/E4_strain.md`** | **✅ v1.0 (2026-04-28)** |
-| E5 | 磁场（双向）| — | 已部分（2026 三篇）|
+| **E5** | **磁场（轨道效应、Pauli极限、FFLO）** | **`E_tuning_parameters/E5_magnetic_field.md`** | **✅ v1.0 (2026-04-28)** |
 | E6 | 光照 | — | 已部分（Sentef）|
 | E7 | 无序/杂质 | — | 空白 |
 | E8 | 维度 | — | 已部分 |

@@ -92,7 +92,7 @@
 | **E7** | **无序/杂质（Anderson定理/AG理论/钉扎/YSR）** | **`E_tuning_parameters/E7_disorder_impurities.md`** | **✅ v1.0 (2026-04-28)** |
 | E8 | 维度 | `E_tuning_parameters/E8_dimensionality.md` | ✅ v1.0 (2026-04-28) |
 | E9 | 扭转角 | `E_tuning_parameters/E9_twist_angle.md` | ✅ v1.0 (2026-04-28) |
-| E10 | 压强淬火 PQP | — | Deng 2026 已精读，待综述 |
+| E10 | 压强淬火 PQP | `E10_pressure_quenching.md` ✅ v1.0 (2026-04-28) | Hg-1223 151K [Deng 2026 PNAS]；亚稳态物理 + 氢化物困难 + 镍酸盐前沿；🎉 **E 部分全部完成！** |
 
 ### F. 量子几何
 

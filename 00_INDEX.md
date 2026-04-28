@@ -51,7 +51,7 @@
 | C1 | s-wave | `C_pairing_symmetry/C1_s_wave.md` | ✅ v1.0 (2026-04-28) |
 | C2 | s± wave | `C_pairing_symmetry/C2_s_plus_minus.md` | ✅ v1.0 (2026-04-28) |
 | C3 | d_x²-y² wave | `C_pairing_symmetry/C3_d_wave.md` | ✅ v1.0 (2026-04-28) |
-| C4 | d_xy wave | — | 空白 |
+| C4 | d_xy wave | `C_pairing_symmetry/C4_d_xy.md` | ✅ v1.0 (2026-04-28) |
 | C5 | p-wave | — | 空白 |
 | C6 | f-wave | — | 空白 |
 | C7 | Chiral 配对 | — | 空白 |

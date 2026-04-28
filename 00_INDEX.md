@@ -68,7 +68,7 @@
 | D3 | 铜氧化物 | `D_material_families/D3_cuprates.md` | ✅ v1.0 (2026-04-28) |
 | D4 | 铁基 | `D_material_families/D4_iron_based.md` | ✅ v1.0 (2026-04-28) |
 | D5 | 镍酸盐 | `D_material_families/D5_nickelates.md` | ✅ v1.0 (2026-04-28) |
-| D6 | 氢化物 | — | 已掌握 |
+| D6 | 氢化物 | `D_material_families/D6_hydrides.md` | ✅ v1.0 (2026-04-28) |
 | D7 | MgB₂ | — | 已掌握 |
 | **D8** | **重费米子** | **— 优先开始** | **🟠 空白** |
 | D9 | 富勒烯 | — | 部分（Sentef 2026）|

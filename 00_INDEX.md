@@ -57,7 +57,7 @@
 | C7 | Chiral 配对 | `C_pairing_symmetry/C7_chiral_pairing.md` | ✅ v1.0 (2026-04-28) |
 | C8 | PDW | `C_pairing_symmetry/C8_PDW.md` | ✅ v1.0 (2026-04-28) |
 | C9 | Singlet vs Triplet 区分 | `C_pairing_symmetry/C9_singlet_vs_triplet.md` | ✅ v1.0 (2026-04-28) |
-| C10 | 节点结构 | — | Paper E 部分 |
+| C10 | 节点结构 | `C_pairing_symmetry/C10_node_structure.md` | ✅ v1.0 (2026-04-28) 🎉 C 部分全部完成！ |
 
 ### D. 材料家族
 

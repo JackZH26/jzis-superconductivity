@@ -102,7 +102,7 @@
 | F2 | Berry 曲率 | `F_quantum_geometry/F2_Berry_curvature.md` ✅ v1.0 (2026-04-28) | Berry 相/联络/曲率定义 + AHE + 轨道磁矩 + WAL + 拓扑超导 + FHS数值方法 + AV₃Sb₅ 对比; 🎉 **F2 完成！** |
 | F3 | Chern 数 | `F_quantum_geometry/F3_Chern_number.md` ✅ v1.0 (2026-04-28) | TKNN公式 + BdG Chern数 + Class D分类 + Bulk-Edge + 量子度规下界 + 反谄媚审计；🎉 **F3 完成！** |
 | F4 | Z₂ 拓扑超导 | `F_quantum_geometry/F4_Z2_topological_SC.md` ✅ v1.0 (2026-04-28) | Class DIII 对称性 + Z₂ Pfaffian 不变量 + Kramers 定理 + He-3 B 相[定理] + Cu_xBi₂Se₃[猜想] + Class D vs DIII 对比 + 反谄媚审计；🎉 **F4 完成！** |
-| F5 | Majorana 零模 | — | 空白 |
+| F5 | Majorana 零模 | `F_quantum_geometry/F5_Majorana_zero_modes.md` ✅ v1.0 (2026-04-28) | Majorana 算符 + Kitaev chain + 非阿贝尔统计 + ZBCP/非局域/4π Josephson/braiding 四种探测 + quasi-Majorana vs MZM + TQC 方案 + 6 条反谄媚 + 反幻觉审计；🎉 **F5 完成！** |
 | F6 | 平坦带超导 | — | 已部分 |
 | F7 | 几何超流权重 | — | Paper E |
 | F8 | 轨道纹理 | — | Paper E |

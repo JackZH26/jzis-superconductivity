@@ -76,7 +76,7 @@
 | **D11** | **2D/界面** | **`D_material_families/D11_2D_interface.md`** | **✅ v1.0 (2026-04-28)** |
 | **D12** | **拓扑超导候选** | **`D_material_families/D12_topological_SC.md`** | **✅ v1.0 (2026-04-28)** |
 | **D13** | **二维半导体 SC** | **`D_material_families/D13_2D_semiconductors.md`** | **✅ v1.0 (2026-04-28)** |
-| **D14** | **Kagome 超导** | **— 优先开始** | **🟠 空白** |
+| **D14** | **Kagome 超导** | **`D_material_families/D14_kagome.md`** | **✅ v1.0 (2026-04-28)** 🎉 D部分全部完成！ |
 | D15 | 磁性掺杂 SC | — | 部分（Llanos, Yang 2026）|
 
 ### E. 控制参数

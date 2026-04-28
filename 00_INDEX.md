@@ -65,7 +65,7 @@
 |------|------|------|------|
 | D1 | 元素金属 | `D_material_families/D1_elemental_metals.md` | ✅ v1.0 (2026-04-28) |
 | D2 | A15 化合物 | [D2_A15_compounds.md](D_material_families/D2_A15_compounds.md) | ✅ v1.0 (2026-04-28) |
-| D3 | 铜氧化物 | — | Deng 2026 已精读，待综述 |
+| D3 | 铜氧化物 | `D_material_families/D3_cuprates.md` | ✅ v1.0 (2026-04-28) |
 | D4 | 铁基 | — | Romero 2026 已精读，待综述 |
 | D5 | 镍酸盐 | — | 多篇精读，**优先做综述** |
 | D6 | 氢化物 | — | 已掌握 |

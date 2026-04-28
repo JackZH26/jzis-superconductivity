@@ -67,7 +67,7 @@
 | D2 | A15 化合物 | [D2_A15_compounds.md](D_material_families/D2_A15_compounds.md) | ✅ v1.0 (2026-04-28) |
 | D3 | 铜氧化物 | `D_material_families/D3_cuprates.md` | ✅ v1.0 (2026-04-28) |
 | D4 | 铁基 | `D_material_families/D4_iron_based.md` | ✅ v1.0 (2026-04-28) |
-| D5 | 镍酸盐 | — | 多篇精读，**优先做综述** |
+| D5 | 镍酸盐 | `D_material_families/D5_nickelates.md` | ✅ v1.0 (2026-04-28) |
 | D6 | 氢化物 | — | 已掌握 |
 | D7 | MgB₂ | — | 已掌握 |
 | **D8** | **重费米子** | **— 优先开始** | **🟠 空白** |

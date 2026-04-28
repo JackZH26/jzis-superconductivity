@@ -70,7 +70,7 @@
 | D5 | 镍酸盐 | `D_material_families/D5_nickelates.md` | ✅ v1.0 (2026-04-28) |
 | D6 | 氢化物 | `D_material_families/D6_hydrides.md` | ✅ v1.0 (2026-04-28) |
 | D7 | MgB₂ | `D_material_families/D7_MgB2.md` | ✅ v1.0 (2026-04-28) |
-| **D8** | **重费米子** | **— 优先开始** | **🟠 空白** |
+| **D8** | **重费米子** | `D_material_families/D8_heavy_fermion.md` | **✅ v1.0 (2026-04-28)** |
 | D9 | 富勒烯 | — | 部分（Sentef 2026）|
 | **D10** | **有机超导** | **— 优先开始** | **🟠 空白** |
 | D11 | 2D/界面 | — | 部分 |

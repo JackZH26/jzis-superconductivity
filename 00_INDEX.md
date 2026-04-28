@@ -54,7 +54,7 @@
 | C4 | d_xy wave | `C_pairing_symmetry/C4_d_xy.md` | ✅ v1.0 (2026-04-28) |
 | C5 | p-wave | `C_pairing_symmetry/C5_p_wave.md` | ✅ v1.0 (2026-04-28) |
 | C6 | f-wave | `C_pairing_symmetry/C6_f_wave.md` | ✅ v1.0 (2026-04-28) |
-| C7 | Chiral 配对 | — | 空白 |
+| C7 | Chiral 配对 | `C_pairing_symmetry/C7_chiral_pairing.md` | ✅ v1.0 (2026-04-28) |
 | C8 | PDW | — | 空白 |
 | C9 | Singlet vs Triplet 区分 | — | 关键空白 |
 | C10 | 节点结构 | — | Paper E 部分 |

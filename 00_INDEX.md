@@ -100,7 +100,7 @@
 |------|------|------|------|
 | F1 | 量子度规 g_μν | `F_quantum_geometry/F1_quantum_metric.md` ✅ v1.0 (2026-04-28) | QGT 定义 + Peotta-Törmä 定理 + g vs Ω 区分 + 典型体系 + 反谄媚审计；🎉 **F 部分正式开始！** |
 | F2 | Berry 曲率 | `F_quantum_geometry/F2_Berry_curvature.md` ✅ v1.0 (2026-04-28) | Berry 相/联络/曲率定义 + AHE + 轨道磁矩 + WAL + 拓扑超导 + FHS数值方法 + AV₃Sb₅ 对比; 🎉 **F2 完成！** |
-| F3 | Chern 数 | — | 已掌握 |
+| F3 | Chern 数 | `F_quantum_geometry/F3_Chern_number.md` ✅ v1.0 (2026-04-28) | TKNN公式 + BdG Chern数 + Class D分类 + Bulk-Edge + 量子度规下界 + 反谄媚审计；🎉 **F3 完成！** |
 | F4 | Z₂ 拓扑超导 | — | 空白 |
 | F5 | Majorana 零模 | — | 空白 |
 | F6 | 平坦带超导 | — | 已部分 |

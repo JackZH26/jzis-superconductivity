@@ -119,7 +119,7 @@
 | G4 | 再入超导（Re-entrant SC） | `G_magnetism_interplay/G4_reentrant_SC.md` ✅ v1.0 (2026-04-29) | 三类再入（温度极罕见/磁场URhGe/压力双穹）+ ErRh₄B₄误解纠正（非温度再入）+ CeCu₂Si₂ SC1/SC2配对机制可能不同 [猜想] + URhGe H-T相图（H_R~12T，Tc'~0.4K）+ 双dip+排除相分离+配对比较实验判据 + 5条反谄媚 + 8条未解问题 🎉 **G 部分覆盖率 50%→60%** |
 | G5 | Jaccarino-Peter 效应 | `G_magnetism_interplay/G5_Jaccarino_Peter_effect.md` ✅ v1.0 (2026-04-29) | 负超交换场 H_ex 补偿 H_ext（H_eff=H_ext-H_ex≈0）+ 超交换量子力学起源 + 有效场完整推导（Curie-Weiss+分子场）+ Jaccarino&Peter 1962 [来源待验证] + Meul 1984 Eu₀.₇₅Sn₀.₂₅Mo₆S₈（H~20-35T，Tc~1-3K [来源待验证]）+ H-T相图结构 + JP vs 再入SC vs FFLO对比 + 材料设计4条件[猜想] + 5条反谄媚（JP极罕见/窗口Tc低/singlet≠triplet再入/Eu-LNO是猜测/线性近似高场失效）🎉 **G 部分覆盖率 60%→70%** |
 | G6 | Pauli 极限违反 | `G_magnetism_interplay/G6_Pauli_limit_violation.md` ✅ v1.0 (2026-04-29) | CC 极限（H_P=1.84Tc [定理]）+ Maki 参数 α + 四大机制（triplet[猜想]/Ising SOC[定理]/Rashba[猜想]/强耦合[定理]）+ Ising SC 谷-自旋锁定详细物理（H_Ising=λ_I τ_z σ_z，面内Hc₂>>H_P，singlet!）+ NbSe₂单层35T>>5.5T [Xi 2016确定] + MoS₂门控 [Saito 2016确定] + CeCoIn₅12T>>4.2T [Petrovic 2001确定] + 实验判据5类 + 材料数据表 + 5条反谄媚（Pauli违反≠triplet/Knight shift≠triplet/单测量不足/α依赖m*/强耦合非违反） 🎉 **G 部分覆盖率 70%→78%** |
-| G7 | Spin-triplet SC | — | Yang 2026 暗示，待深入 |
+| G7 | 量子自旋液体与超导（QSL and SC） | `G_magnetism_interplay/G7_spin_liquid_SC.md` ✅ v1.0 (2026-04-29) | QSL 三条定义（无磁序/无 spin glass/分数化激发）+ Anderson RVB 图像（1973/1987）+ κ-(BEDT-TTF)₂Cu₂(CN)₃ QSL→SC（无磁序至 32 mK [来源待验证] + 压力下 Tc~6-12K [来源待验证]）+ Herbertsmithite（Kagome，单纯 QSL，无 SC）+ Z₂ QSL 掘杂→拓扑 SC [猜想，理论预言] + RVB vs BCS 对比表 + 4条反谄媚（无磁序≠QSL/RVB 40年未定论/QSL→SC机制未验证）🎉 **G 部分覆盖率 78%→85%** |
 | G8 | FFLO 态 | — | 空白 |
 | G9 | 磁场调能隙各向异性 | — | 空白 |
 

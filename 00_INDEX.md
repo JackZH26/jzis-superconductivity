@@ -120,7 +120,7 @@
 | G5 | Jaccarino-Peter 效应 | `G_magnetism_interplay/G5_Jaccarino_Peter_effect.md` ✅ v1.0 (2026-04-29) | 负超交换场 H_ex 补偿 H_ext（H_eff=H_ext-H_ex≈0）+ 超交换量子力学起源 + 有效场完整推导（Curie-Weiss+分子场）+ Jaccarino&Peter 1962 [来源待验证] + Meul 1984 Eu₀.₇₅Sn₀.₂₅Mo₆S₈（H~20-35T，Tc~1-3K [来源待验证]）+ H-T相图结构 + JP vs 再入SC vs FFLO对比 + 材料设计4条件[猜想] + 5条反谄媚（JP极罕见/窗口Tc低/singlet≠triplet再入/Eu-LNO是猜测/线性近似高场失效）🎉 **G 部分覆盖率 60%→70%** |
 | G6 | Pauli 极限违反 | `G_magnetism_interplay/G6_Pauli_limit_violation.md` ✅ v1.0 (2026-04-29) | CC 极限（H_P=1.84Tc [定理]）+ Maki 参数 α + 四大机制（triplet[猜想]/Ising SOC[定理]/Rashba[猜想]/强耦合[定理]）+ Ising SC 谷-自旋锁定详细物理（H_Ising=λ_I τ_z σ_z，面内Hc₂>>H_P，singlet!）+ NbSe₂单层35T>>5.5T [Xi 2016确定] + MoS₂门控 [Saito 2016确定] + CeCoIn₅12T>>4.2T [Petrovic 2001确定] + 实验判据5类 + 材料数据表 + 5条反谄媚（Pauli违反≠triplet/Knight shift≠triplet/单测量不足/α依赖m*/强耦合非违反） 🎉 **G 部分覆盖率 70%→78%** |
 | G7 | 量子自旋液体与超导（QSL and SC） | `G_magnetism_interplay/G7_spin_liquid_SC.md` ✅ v1.0 (2026-04-29) | QSL 三条定义（无磁序/无 spin glass/分数化激发）+ Anderson RVB 图像（1973/1987）+ κ-(BEDT-TTF)₂Cu₂(CN)₃ QSL→SC（无磁序至 32 mK [来源待验证] + 压力下 Tc~6-12K [来源待验证]）+ Herbertsmithite（Kagome，单纯 QSL，无 SC）+ Z₂ QSL 掘杂→拓扑 SC [猜想，理论预言] + RVB vs BCS 对比表 + 4条反谄媚（无磁序≠QSL/RVB 40年未定论/QSL→SC机制未验证）🎉 **G 部分覆盖率 78%→85%** |
-| G8 | FFLO 态 | — | 空白 |
+| G8 | 自旋轨道耦合与超导（SOC and Superconductivity） | `G_magnetism_interplay/G8_SOC_superconductivity.md` ✅ v1.0 (2026-04-29) | SOC 基础（H_SOC = ξ L·S，ξ~Z⁴）+ Rashba SOC（H_R = α_R (k×z)·σ，自旋-动量锁定）+ Ising SOC（H_I = λ_I τ_z σ_z，谷-自旋锁定）+ NCS（非中心对称超导：无反演 → singlet/triplet 混合 [定理]）+ CePt₃Si/BiPd/Li₂Pt₃B 常见 NCS 材料 [来源待验证] + Rashba 带分裂与配对通道 + 单层 NbSe₂ 35T [确定] + 4条反谄媚（SOC≠triplet/小triplet不可忽略/Rashba测量困难/弱Rashba极限NCS效应小）🎉 **G 部分覆盖率 85%→92%** |
 | G9 | 磁场调能隙各向异性 | — | 空白 |
 
 ### H. 反常正常态

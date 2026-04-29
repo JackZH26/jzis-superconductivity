@@ -127,7 +127,7 @@
 
 | 编号 | 课题 | 文件 | 状态 |
 |------|------|------|------|
-| H1 | Strange metal / Linear-T | — | Romero 2026 已精读 |
+| H1 | Strange metal / Linear-T | `H_anomalous_normal_state/H1_strange_metal_linear_T.md` | ✅ v1.0 (2026-04-29) |
 | H2 | Planckian 极限 | — | Romero 2026 已精读 |
 | H3 | Pseudogap | — | 已掌握 |
 | H4 | CDW | — | 已掌握 |

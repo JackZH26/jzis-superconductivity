@@ -113,7 +113,7 @@
 
 | 编号 | 课题 | 文件 | 状态 |
 |------|------|------|------|
-| G1 | SC + AFM 共存 | — | 已掌握 |
+| G1 | SC + AFM 共存 | `G_magnetism_interplay/G1_SC_AFM_coexistence.md` ✅ v1.0 (2026-04-29) | 三类关系框架（竞争/协同/共存）+ AFM 序 vs 涨落关键区别 + 铜氧化物相图（LSCO TN≈325K/Tc_max≈38K，NCCO n型不对称）+ 铁基 SDW+SC 共存/竞争（BaFe₂As₂ T_SDW=138K [确定]）+ 重费米子 CeRhIn₅ NMR 共存证据 + 五种实验判据 + 5 条反谄媚 + 7 条未解问题 🎉 **G 部分正式开始！** |
 | G2 | SC + FM 共存 | — | Yang 2026 部分 |
 | G3 | Field-induced SC | — | Llanos, Yang 2026 部分 |
 | G4 | Re-entrant SC | — | Yang 2026 部分 |

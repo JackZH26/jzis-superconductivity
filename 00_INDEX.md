@@ -128,7 +128,7 @@
 | 编号 | 课题 | 文件 | 状态 |
 |------|------|------|------|
 | H1 | Strange metal / Linear-T | `H_anomalous_normal_state/H1_strange_metal_linear_T.md` | ✅ v1.0 (2026-04-29) |
-| H2 | Planckian 极限 | — | Romero 2026 已精读 |
+| H2 | Planckian 极限 | `H_anomalous_normal_state/H2_Planckian_limit.md` | ✅ v1.0 (2026-04-29)（α定义+Drude提取+跨材料统计+Romero精读+Tc猜想+WF定律+5条反谄媚） |
 | H3 | Pseudogap | — | 已掌握 |
 | H4 | CDW | — | 已掌握 |
 | H5 | SDW | — | 已掌握 |

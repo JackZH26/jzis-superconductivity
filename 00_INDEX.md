@@ -117,7 +117,7 @@
 | G2 | SC + FM 共存 | `G_magnetism_interplay/G2_SC_FM_coexistence.md` ✅ v1.0 (2026-04-29) | FM 破坏 singlet SC（Pauli 拆配[定理]）+ Triplet 逃脱机制（[猜想]）+ URhGe（T_Curie=9.5K, Tc=0.25K, 再入SC@H~12T）+ UCoGe（T_Curie=2.5K, Tc=0.6K）+ UGe₂（高压 FM2相 SC）+ FM 横向涨落驱动机制（B4）+ G1 系统对比 + 本征共存 vs 近邻效应区分 + 5 条反谄媚（triplet未确认/再入机制未定/UTe₂不是G2）+ 7 条未解问题 🎉 **G 部分覆盖率 10%→20%** |
 | G3 | 场诱导超导 | `G_magnetism_interplay/G3_field_induced_SC.md` ✅ v1.0 (2026-04-29) | JP 效应（H_eff=H_ext-H_ex，singlet SC 复活）+ 再入 SC（FM 矩翻转→横向涨落就）+ 场驱动 QCP→SC [猜想] + Eu-La₃Ni₂O₇ 场诱导 SC（Yang 2026 [来源待验证]，机制未知）+ 三类效应对比表 + 5 条反谄媚 + 7 条未解问题 🎉 **G 部分覆盖率 40%→50%** |
 | G4 | 再入超导（Re-entrant SC） | `G_magnetism_interplay/G4_reentrant_SC.md` ✅ v1.0 (2026-04-29) | 三类再入（温度极罕见/磁场URhGe/压力双穹）+ ErRh₄B₄误解纠正（非温度再入）+ CeCu₂Si₂ SC1/SC2配对机制可能不同 [猜想] + URhGe H-T相图（H_R~12T，Tc'~0.4K）+ 双dip+排除相分离+配对比较实验判据 + 5条反谄媚 + 8条未解问题 🎉 **G 部分覆盖率 50%→60%** |
-| G5 | Jaccarino-Peter | — | 部分 |
+| G5 | Jaccarino-Peter 效应 | `G_magnetism_interplay/G5_Jaccarino_Peter_effect.md` ✅ v1.0 (2026-04-29) | 负超交换场 H_ex 补偿 H_ext（H_eff=H_ext-H_ex≈0）+ 超交换量子力学起源 + 有效场完整推导（Curie-Weiss+分子场）+ Jaccarino&Peter 1962 [来源待验证] + Meul 1984 Eu₀.₇₅Sn₀.₂₅Mo₆S₈（H~20-35T，Tc~1-3K [来源待验证]）+ H-T相图结构 + JP vs 再入SC vs FFLO对比 + 材料设计4条件[猜想] + 5条反谄媚（JP极罕见/窗口Tc低/singlet≠triplet再入/Eu-LNO是猜测/线性近似高场失效）🎉 **G 部分覆盖率 60%→70%** |
 | G6 | Pauli 极限违反 | — | 空白 |
 | G7 | Spin-triplet SC | — | Yang 2026 暗示，待深入 |
 | G8 | FFLO 态 | — | 空白 |

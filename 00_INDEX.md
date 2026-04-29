@@ -129,7 +129,7 @@
 |------|------|------|------|
 | H1 | Strange metal / Linear-T | `H_anomalous_normal_state/H1_strange_metal_linear_T.md` | ✅ v1.0 (2026-04-29) |
 | H2 | Planckian 极限 | `H_anomalous_normal_state/H2_Planckian_limit.md` | ✅ v1.0 (2026-04-29)（α定义+Drude提取+跨材料统计+Romero精读+Tc猜想+WF定律+5条反谄媚） |
-| H3 | Pseudogap | — | 已掌握 |
+| H3 | Pseudogap / 赝能隙 | `H_anomalous_normal_state/H3_pseudogap.md` | ✅ v1.0 (2026-04-29)（赝能隙定义+T*相图+三大假说(预形成对/竞争序/Mottness,均[猜想])+k空间结构+CDW关联+隐藏QCP+5条反谄媚） 🎉 **H 部分覆盖率 50%→60%** |
 | H4 | CDW | — | 已掌握 |
 | H5 | SDW | — | 已掌握 |
 | H6 | 向列序 | — | 空白 |

@@ -136,7 +136,7 @@
 | H7 | 磁阻滞回 + 非线性 Hall | `H_anomalous_normal_state/H7_nonlinear_Hall_hysteresis.md` | ✅ v1.0 (2026-04-29)（NLHE 定义+BCD 框架[定理]+磁滞多种起源[猜想]+Romero 2026 向列 QCP 背景（间接关联，未测 NLHE）+Yang 2026 Sm-鈥酸盐 Eu²⁺磁性行为（6.23T/13.04T/45T）[已精读]+NLHE-SC拓扑关联[猜想]+BCD 材料对称性+4条反谄媚） 🎉 H部分覆盖率 90%→93% |
 | H8 | 双通道输运 | `H_anomalous_normal_state/H8_two_channel_transport.md` | ✅ v1.0 (2026-04-29)（两通道 Drude [定理,唯象]+两带 R_H [定理,唯象]+Romero 2026 FeTeSe THz 双通道（alpha≈3.02/2.42，双 Planckian）[已精读]+铁基 5个 3d 轨道天然两通道[定理,ARPES]+两通道↔s±配对 [猜想]+Hall系数温度依赖（H9前导）+铜氧化物两通道讨论[猜想]+4条反谄媚（两通道≠两类准粒子/≥4条费米面/双 Planckian因果未定/THz≠DC）） 🎉 H部分覆盖率 93%→97% |
 | H9 | Hall 系数符号反转 | `H_anomalous_normal_state/H9_Hall_sign_reversal.md` | ✅ v1.0 (2026-04-29)（两带 Hall 公式 [定理,唤象]+符号反转机制（mu比值温度演化）+符号反转条件 T*+SDW 对 Hall 异常+Yang 2026 Eu掌杂镑酸盐 Hall 异常（AHE+普通 Hall）[已精读]+铜氧化物过掌杂区 R_H [来源待验证]+AHE vs 普通 Hall 分离方法+4条反谄媚） 🎉 H部分覆盖率 97%↙99% |
-| H10 | 自旋液体 | — | 空白 |
+| H10 | 自旋液体 | `H_anomalous_normal_state/H10_spin_liquid.md` | ✅ v1.0 (2026-04-29)（QSL定义+Z₂/U(1)/Kitaev/RVB分类+Anderson 1987 RVB+La₂CuO₄母态≠QSL[实验事实]+Kitaev模型[定理]+α-RuCl₃+κ-ET₂X有机超导+Herbertsmithite+4条反谄媚） 🎉🎉🎉 **H 部分 H1-H10 全部完成！** |
 
 ---
 

@@ -133,7 +133,7 @@
 | H4 | CDW / 电荷密度波 | `H_anomalous_normal_state/H4_CDW.md` | ✅ v1.0 (2026-04-29)（CDW定义+Peierls不稳定性[1D定理]+N(EF)压制SC[定理]+LBCO x=1/8条纹序+YBCO X射线 CDW+NbSe₂维度效应[Xi 2016确定]+Kagome AV₃Sb₅ CDW 94K+CDW竞争vs涨落争论+实验方法+4条反谄媚(竞争≠赝能隙原因/长程序≠必然/起源各异/共存≠不竞争)） 🎉 **H 部分覆盖率 60%→70%** |
 | H5 | SDW / 自旋密度波 | `H_anomalous_normal_state/H5_SDW.md` | ✅ v1.0 (2026-04-29)(定义+Overhauser理论+Fermi面嵌套+BaFe₂As₂ T_SDW=138K[确定]+Co/K掺杂相图+SDW涨落→s±+FeSe反例+Cr参考体系+向列序关联+4条反谄媚) 🎉 H部分覆盖率 70%→80% |
 | H6 | 向列序 | `H_anomalous_normal_state/H6_nematic_order.md` | ✅ v1.0 (2026-04-29)(C4→C2对称破缺定义+三大机制[猜想]+BaFe₂As₂ T_s=138K[确定]+FeSe 向列最纯净平台+向列 QCP 假说+铜氧化物向列行为争议+4条反谄媚) 🎉 H部分覆盖率 80%→90% |
-| H7 | 磁阻滞回 + 非线性 Hall | — | Yang 2026 部分 |
+| H7 | 磁阻滞回 + 非线性 Hall | `H_anomalous_normal_state/H7_nonlinear_Hall_hysteresis.md` | ✅ v1.0 (2026-04-29)（NLHE 定义+BCD 框架[定理]+磁滞多种起源[猜想]+Romero 2026 向列 QCP 背景（间接关联，未测 NLHE）+Yang 2026 Sm-鈥酸盐 Eu²⁺磁性行为（6.23T/13.04T/45T）[已精读]+NLHE-SC拓扑关联[猜想]+BCD 材料对称性+4条反谄媚） 🎉 H部分覆盖率 90%→93% |
 | H8 | 双通道输运 | — | Romero 2026 已精读 |
 | H9 | Hall 系数符号反转 | — | Yang 2026 部分 |
 | H10 | 自旋液体 | — | 空白 |

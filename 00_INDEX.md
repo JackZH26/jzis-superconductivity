@@ -115,7 +115,7 @@
 |------|------|------|------|
 | G1 | SC + AFM 共存 | `G_magnetism_interplay/G1_SC_AFM_coexistence.md` ✅ v1.0 (2026-04-29) | 三类关系框架（竞争/协同/共存）+ AFM 序 vs 涨落关键区别 + 铜氧化物相图（LSCO TN≈325K/Tc_max≈38K，NCCO n型不对称）+ 铁基 SDW+SC 共存/竞争（BaFe₂As₂ T_SDW=138K [确定]）+ 重费米子 CeRhIn₅ NMR 共存证据 + 五种实验判据 + 5 条反谄媚 + 7 条未解问题 🎉 **G 部分正式开始！** |
 | G2 | SC + FM 共存 | `G_magnetism_interplay/G2_SC_FM_coexistence.md` ✅ v1.0 (2026-04-29) | FM 破坏 singlet SC（Pauli 拆配[定理]）+ Triplet 逃脱机制（[猜想]）+ URhGe（T_Curie=9.5K, Tc=0.25K, 再入SC@H~12T）+ UCoGe（T_Curie=2.5K, Tc=0.6K）+ UGe₂（高压 FM2相 SC）+ FM 横向涨落驱动机制（B4）+ G1 系统对比 + 本征共存 vs 近邻效应区分 + 5 条反谄媚（triplet未确认/再入机制未定/UTe₂不是G2）+ 7 条未解问题 🎉 **G 部分覆盖率 10%→20%** |
-| G3 | Field-induced SC | — | Llanos, Yang 2026 部分 |
+| G3 | 场诱导超导 | `G_magnetism_interplay/G3_field_induced_SC.md` ✅ v1.0 (2026-04-29) | JP 效应（H_eff=H_ext-H_ex，singlet SC 复活）+ 再入 SC（FM 矩翻转→横向涨落就）+ 场驱动 QCP→SC [猜想] + Eu-La₃Ni₂O₇ 场诱导 SC（Yang 2026 [来源待验证]，机制未知）+ 三类效应对比表 + 5 条反谄媚 + 7 条未解问题 🎉 **G 部分覆盖率 40%→50%** |
 | G4 | Re-entrant SC | — | Yang 2026 部分 |
 | G5 | Jaccarino-Peter | — | 部分 |
 | G6 | Pauli 极限违反 | — | 空白 |

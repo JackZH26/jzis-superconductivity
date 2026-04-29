@@ -134,7 +134,7 @@
 | H5 | SDW / 自旋密度波 | `H_anomalous_normal_state/H5_SDW.md` | ✅ v1.0 (2026-04-29)(定义+Overhauser理论+Fermi面嵌套+BaFe₂As₂ T_SDW=138K[确定]+Co/K掺杂相图+SDW涨落→s±+FeSe反例+Cr参考体系+向列序关联+4条反谄媚) 🎉 H部分覆盖率 70%→80% |
 | H6 | 向列序 | `H_anomalous_normal_state/H6_nematic_order.md` | ✅ v1.0 (2026-04-29)(C4→C2对称破缺定义+三大机制[猜想]+BaFe₂As₂ T_s=138K[确定]+FeSe 向列最纯净平台+向列 QCP 假说+铜氧化物向列行为争议+4条反谄媚) 🎉 H部分覆盖率 80%→90% |
 | H7 | 磁阻滞回 + 非线性 Hall | `H_anomalous_normal_state/H7_nonlinear_Hall_hysteresis.md` | ✅ v1.0 (2026-04-29)（NLHE 定义+BCD 框架[定理]+磁滞多种起源[猜想]+Romero 2026 向列 QCP 背景（间接关联，未测 NLHE）+Yang 2026 Sm-鈥酸盐 Eu²⁺磁性行为（6.23T/13.04T/45T）[已精读]+NLHE-SC拓扑关联[猜想]+BCD 材料对称性+4条反谄媚） 🎉 H部分覆盖率 90%→93% |
-| H8 | 双通道输运 | — | Romero 2026 已精读 |
+| H8 | 双通道输运 | `H_anomalous_normal_state/H8_two_channel_transport.md` | ✅ v1.0 (2026-04-29)（两通道 Drude [定理,唯象]+两带 R_H [定理,唯象]+Romero 2026 FeTeSe THz 双通道（alpha≈3.02/2.42，双 Planckian）[已精读]+铁基 5个 3d 轨道天然两通道[定理,ARPES]+两通道↔s±配对 [猜想]+Hall系数温度依赖（H9前导）+铜氧化物两通道讨论[猜想]+4条反谄媚（两通道≠两类准粒子/≥4条费米面/双 Planckian因果未定/THz≠DC）） 🎉 H部分覆盖率 93%→97% |
 | H9 | Hall 系数符号反转 | — | Yang 2026 部分 |
 | H10 | 自旋液体 | — | 空白 |
 

@@ -107,7 +107,7 @@
 | F7 | 几何超流权重 | `F_quantum_geometry/F7_geometric_superfluid_weight.md` ✅ v1.0 (2026-04-28) | Kubo 公式 + BdG 精确分解（BCS+几何）+ inter-band 几何起源 + Peotta-Törmä 下界完整推导 + 孤立平坦带等号条件 + 各向异性张量 + BKT 关联 + 6 条反谄媚；🎉 **F7 完成！** |
 | F8 | BKT 转变 | `F_quantum_geometry/F8_BKT_transition.md` ✅ v1.0 (2026-04-28) | Mermin-Wagner背景 + 温涡拓扑热力学 + KT自由能论证 + Nelson-Kosterlitz普适跳变 + I-V幂律(α=3判决) + R(T)BKT函数形式 + 实验识别指南 + BCS vs BKT对比 + 量子几何联系；🎉 **F8 BKT转变完成！** |
 | F9 | 拓扑电荷 | `F_quantum_geometry/F9_topological_charge.md` ✅ v1.0 (2026-04-28) | 卷绕数定义(n=∮∇φ·dl/2π∈ℤ) + 磁通量子化(Phi_0=h/2e,Cooper对) + Abrikosov漩涡格子(间距公式+漩涡密度) + 漩涡Magnus力 + 漩涡流动→电阻 + 半量子磁通[猜想] + π₁(U(1))=ℤ代数 + Chern数类比 + 5条反谄媚；🎉 **F9 拓扑电荷完成！F 部分 95%→97%** |
-| F10 | Wilson loop | — | 空白 |
+| F10 | Wilson loop | `F_quantum_geometry/F10_Wilson_loop.md` ✅ v1.0 (2026-04-29) | Berry 联络矩阵 + Wilson loop 路径有序积分（W_C=P*exp(i∮A·dk)）+ 规范不变性（本征值必须用）+ 离散重叠矩阵法 + Chern 数=绕数 + Z₂不变量 + Wannier 中心+现代极化理论 + Zak 相 + BdG Wilson loop + Z₂Pack/WannierTools + 5条反谄媚 + 7条未解问题； 🎉🎉🎉 **F 部分 F1-F10 全部完成！100%！** |
 
 ### G. 磁性互动
 

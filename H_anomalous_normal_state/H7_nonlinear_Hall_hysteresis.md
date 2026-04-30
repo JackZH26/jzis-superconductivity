@@ -396,7 +396,7 @@
 【Romero 2026 FeTeSe（向列背景，来源：已精读）】
   → FeTeSe x=0.45：Tc=13.2 K，alpha（Planckian 系数）≈ 3.02 [来源：已精读]
   → FeTeSe x=0.35：Tc=11.8 K，alpha≈2.42 [来源：已精读]
-  → 向列 QCP 位置：x ≈ 0.45 附近（Mukasa 2023 实验 [来源待验证]）
+  → 向列 QCP 位置：x ≈ 0.45 附近（Mukasa et al. PRX 2023 [Romero+2026, Nat Phys, DOI:10.1038/s41567-026-03266-8 引用，来源：已精读]）
   → NLHE 相关数值：Romero 2026 未测量，无数据
 
 【WTe₂ NLHE（理论参考体系，来源待验证）】

@@ -77,7 +77,7 @@
 | **D12** | **拓扑超导候选** | **`D_material_families/D12_topological_SC.md`** | **✅ v1.0 (2026-04-28)** |
 | **D13** | **二维半导体 SC** | **`D_material_families/D13_2D_semiconductors.md`** | **✅ v1.0 (2026-04-28)** |
 | **D14** | **Kagome 超导** | **`D_material_families/D14_kagome.md`** | **✅ v1.0 (2026-04-28)** 🎉 D部分全部完成！ |
-| D15 | 磁性掺杂 SC | — | 部分（Llanos, Yang 2026）|
+| **D15** | **磁性掺杂 SC** | **`D_material_families/D15_magnetic_doping.md`** | **✅ v1.0 (2026-04-30)** |
 
 ### E. 控制参数
 

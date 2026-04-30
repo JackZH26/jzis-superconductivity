@@ -162,7 +162,7 @@ H. 反常正常态:      ▓▓▓▓▓▓▓▓▓▓  100%（H1 ✅ + H2 ✅ 
 - [✅] **D13 二维半导体 SC — v1.0 完成 (2026-04-28)** 【MoS₂门控(Tc=10.8K,Ye 2012)+NbSe₂单层(Tc=3K,CDW=145K,BKT)[Xi 2016 Nat Phys 12,139]+TaS₂(Mott+CDW+SC三者竞争)+WS₂/WSe₂(更强Ising SOC)+MoTe₂(拓扑+SC) + Ising超导完整物理(H_Ising=λ_I*τ_z*σ_z,Hc₂>>H_Pauli)[定理] + Ising SC≠triplet反谄媚 + MATBG≠D13 + CDW竞争序详析 + D部分96%→98%🎉】
 - [✅] **E1 静水压 — v1.0 完成 (2026-04-28)** 🎉 **E 部分正式开始！** 【四大机制（带宽增大+Mott转变+QCP+结构相变）+ 跨材料家族应力效应总结表(11个体系) + DAC实验技术对比 + 工程无实用价值反谄媚 + Allen-Dynes逃脱场景分析 + E部分覆盖率 30%←40%🎉】
 - [✅] **D14 Kagome — v1.0 完成 (2026-04-28)** 【AV₃Sb₅三兄弟(CsV₃Sb₅ Tc=2.5K/CDW=94K,KV₃Sb₅ Tc=0.9K,RbV₃Sb₅ Tc=0.92K)+平坦带≠在EF(关键反谄媚!)+VHS驱动CDW+配对对称性五种争议(s/d/d+id/PDW/s±均[猜想])+AHE≠确认TRS破缺SC+STM三倍周期≠确认PDW+CsCr₃Sb₅/FeGe扩展+D部分98%→**100%**🎉🎉🎉 D部分D1-D14全部完成！】
-- [⚙️] D15 磁性掺杂 — 部分
+- [✅] **D15 磁性掺杂 SC — v1.0 完成 (2026-04-30)** 【AG 配对断裂理论（AG 方程[定理]）+ Kondo 竞争（T_K vs Tc）+ JP 效应（场补偿机制）+ Yang 2026 精读（Eu-IL-nickelate，H_comp=6.23T/H_upper=13.04T/45T测量上限）+ Llanos 2026 摘要（LaSb₂:Ce，G3/G5 关联）+ RNi₂B₂C 边界案例 + 稀土掺杂铜氧化物 + 六条反谄媚（AG≠通用/RE掺杂≠纯磁性效应/磁性杂质≠总压制SC）】
 
 #### E 控制参数
 - [✅] **E1 静水压 — v1.0 完成 (2026-04-28)** 🎉 **E 部分正式开始！**
